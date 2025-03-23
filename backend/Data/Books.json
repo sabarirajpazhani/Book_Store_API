@@ -1,39 +1,38 @@
 [
-    {
-      "title": "The Alchemist",
-      "author": "Paulo Coelho",
-      "price": 499,
-      "publishedYear": 1988
-    },
-    {
-      "title": "Atomic Habits",
-      "author": "James Clear",
-      "price": 799,
-      "publishedYear": 2018
-    },
-    {
-      "title": "The Pragmatic Programmer",
-      "author": "Andrew Hunt & David Thomas",
-      "price": 999,
-      "publishedYear": 1999
-    },
-    {
-      "title": "Clean Code",
-      "author": "Robert C. Martin",
-      "price": 1299,
-      "publishedYear": 2008
-    },
-    {
-      "title": "Deep Work",
-      "author": "Cal Newport",
-      "price": 699,
-      "publishedYear": 2016
-    },
-    {
-      "title": "Eloquent JavaScript",
-      "author": "Marijn Haverbeke",
-      "price": 849,
-      "publishedYear": 2011
-    }
-  ]
-  
+  {
+    "bookTitle": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "price": 950,
+    "publishYear": 1999
+  },
+  {
+    "bookTitle": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 1200,
+    "publishYear": 2008
+  },
+  {
+    "bookTitle": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "price": 800,
+    "publishYear": 2015
+  },
+  {
+    "bookTitle": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "price": 750,
+    "publishYear": 2018
+  },
+  {
+    "bookTitle": "The Lean Startup",
+    "author": "Eric Ries",
+    "price": 699,
+    "publishYear": 2011
+  },
+  {
+    "bookTitle": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "price": 1300,
+    "publishYear": 2016
+  }
+]
